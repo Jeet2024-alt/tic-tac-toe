@@ -44,9 +44,6 @@ This project involves designing and implementing a Tic-Tac-Toe game. It is a sim
 4. The game will declare a winner or a tie when conditions are met.
 5. Click the restart button to play again.
 
-## Live Demo
-
-You can see a live demo of the game [here](https://USERNAME.github.io/REPO).
 
 ## License
 
